@@ -10,13 +10,10 @@ import { Component } from '@angular/core';
 })
 export class GalleryComponent {
  photos = [
-    { url: 'assets/images/photo1.jpg', caption: 'That day at the park ❤️' },
-    { url: 'assets/images/photo2.jpg', caption: 'Our first coffee date ☕' },
-    { url: 'assets/images/photo3.jpg', caption: 'Laughing until we cried 😂' }
+    { url: 'assets/img1.jpg', caption: 'That day at the park ❤️' },
+    { url: 'assets/img2.jpg', caption: 'Our first coffee date ☕' },
+    { url: 'assets/parents.jpg', caption: 'Laughing until we cried 😂' }
   ];
 
-  videos = [
-    'assets/videos/video1.mp4',
-    'assets/videos/video2.mp4'
-  ];
+
 }
