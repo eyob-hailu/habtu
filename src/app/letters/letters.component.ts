@@ -23,7 +23,7 @@ Finally, when you’re feeling grateful, let me join you. Because I’m grateful
 
 Enkuan tewoledsh, Hanuyeeeeee! 🎉🎂
 
-I love youuuu ❤️😘😊  
+I love youuuu ❤️  
 
 Here’s to many more memories.
 
