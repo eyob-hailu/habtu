@@ -25,10 +25,10 @@ Enkuan tewoledsh, Hanuyeeeeee! 🎉🎂
 
 I love youuuu ❤️😘😊  
 
-Here’s to many more memories, laughter, and adventures together.  
+Here’s to many more memories.
 
-  
-💌💌💌💌`;
+Happppy Birthdayyyyyyyyyyyyyyyyyyyyyy
+ `;
 
 
   displayedText: string = '';
