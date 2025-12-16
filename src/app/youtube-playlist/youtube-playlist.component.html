@@ -1,0 +1,22 @@
+<div class="max-w-5xl mx-auto bg-white rounded-2xl shadow-xl overflow-hidden">
+  
+  <!-- Header -->
+  <div class="flex items-center justify-between px-6 py-4 bg-gradient-to-r from-red-500 to-red-600">
+    <div>
+      <h2 class="text-lg font-bold text-white">Music Playlist</h2>
+      <p class="text-sm text-red-100">Now Playing from YouTube</p>
+    </div>
+
+    <span class="text-xs bg-white/20 text-white px-3 py-1 rounded-full">
+      Playlist
+    </span>
+  </div>
+
+  <!-- Player -->
+  <iframe
+    class="w-full h-[420px]"
+    [src]="safeUrl"
+    allow="autoplay; encrypted-media"
+  ></iframe>
+
+</div>
